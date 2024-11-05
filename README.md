@@ -2,14 +2,14 @@
 
 ### PROJECT OUTLINE
 1. [Project Overview](#project-overview)
-2. [Data Sources](#data-sources)
-3. [Tools Used](#tools-used)
-4. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-5. [Exploratory Data Analysis](#exploratory-data-analysis)
-6. [Data Analysis](#data-analysis)
-7. [Data Visualization](#data-visualization)
-8. [Inferences](#inferences)
-9. [Conclusion](#conclusion)
+2. [Tools Used](#tools-used)
+3. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+4. [Exploratory Data Analysis](#exploratory-data-analysis)
+5. [Data Analysis](#data-analysis)
+6. [Data Visualization](#data-visualization)
+7. [Inferences](#inferences)
+8. [Conclusion](#conclusion)
+9. [Limitations](#limitations)
 
 ### Project Overview
 The aim of this project is to analyze the given customer dataset for a subscription service in order to identify customer segments based on the available subscription types and identify 
@@ -23,7 +23,6 @@ trends in cancellations and renewals.
 ### Data Cleaning and Preparation
 - Data loading and inspection
 - Data cleaning amd removal of duplicates
-
 
 ### Exploratory Data Analysis
 - What is the total number of customers from each region?
