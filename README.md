@@ -148,5 +148,16 @@ Excel
 =AVERAGE(Table1[[#All],[Sum of Revenue]])/COUNT(Table1[CustomerID])
 ```
 
-### Results
-![](Customer_Segmentation_Dashboard)
+### Dashboard
+![](Customer_Segmentation_Dashboard.PNG)
+
+### Inferences
+1. The subscription service company generated a total revenue of
+$149,819,686 from 20 customers between 2023 and 2024
+2. The 20 customers are made up of 5 customers from each region
+represented
+3. 9 customers cancelled their subscription after 12 months, leading to a
+loss of $67,473,463 by the end of August 2024
+4. This comprises of 3 individuals each from the North, South and West
+regions. It is also made up of 3 customers for each subscription type.
+
