@@ -1,4 +1,4 @@
-# PROJECT TITLE: Customer Segmentation for a Subscription Service
+## PROJECT TITLE: Customer Segmentation for a Subscription Service
 
 ### PROJECT OUTLINE
 1. [Project Overview](#project-overview)
@@ -8,12 +8,13 @@
 5. [Exploratory Data Analysis](#exploratory-data-analysis)
 6. [Data Analysis](#data-analysis)
 7. [Data Visualization](#data-visualization)
+8. [Inferences](#inferences)
 
 ### Project Overview
 
-### DATA SOURCES
+### Data Sources
 
-### TOOLS USED
+### Tools Used
 - Microsoft Excel: For ddata cleaning, creating pivot tables and charts
 - SQL: For data manipulation, data retrieval and data analysis
 - PoweBI:  Data analysis, visualization and storytelling
@@ -149,7 +150,7 @@ Excel
 =AVERAGE(Table1[[#All],[Sum of Revenue]])/COUNT(Table1[CustomerID])
 ```
 
-### Dashboard
+### Data Visualization
 ![](Customer_Segmentation_Dashboard.PNG)
 
 ### Inferences
