@@ -148,4 +148,5 @@ Excel
 =AVERAGE(Table1[[#All],[Sum of Revenue]])/COUNT(Table1[CustomerID])
 ```
 
-
+### Results
+![](Customer_Segmentation_Dashboard)
