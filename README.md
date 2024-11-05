@@ -9,13 +9,14 @@
 6. [Data Analysis](#data-analysis)
 7. [Data Visualization](#data-visualization)
 8. [Inferences](#inferences)
+9. [Conclusion](#conclusion)
 
 ### Project Overview
-
-### Data Sources
+The aim of this project is to analyze the given customer dataset for a subscription service in order to identify customer segments based on the available subscription types and identify 
+trends in cancellations and renewals. 
 
 ### Tools Used
-- Microsoft Excel: For ddata cleaning, creating pivot tables and charts
+- Microsoft Excel: For data cleaning, creating pivot tables and charts
 - SQL: For data manipulation, data retrieval and data analysis
 - PoweBI:  Data analysis, visualization and storytelling
 
@@ -163,3 +164,14 @@ loss of $67,473,463 by the end of August 2024
 4. This comprises of 3 individuals each from the North, South and West
 regions. It is also made up of 3 customers for each subscription type.
 
+### Conclusion
+The analysis of customer segmentation for the subscription service shows an overall customer preference for the Basic subscription type and that location is not a determining factor in the use of the subcription service.
+
+Important findings are:
+1. 50% of the customers use the Basic subscription type and account for 50% of the total revenue.
+2. There was an equal number of customer from each region.
+3. No customer subscribes for the service beyong 12 months at a go.
+
+### Limitations
+1. Limited information on reasons for customers choice
+2. Small sample size
