@@ -30,8 +30,9 @@
 - Calculate the average subscription duration for all customers.
 - Find customers with subscriptions longer than 12 months.
 - What is the total revenue by subscription type?
-- Fnd the top 3 regions by subscription cancellations.-  find the total number of active and canceled subscriptions.
--  What is the total revenue by region?
+- Fnd the top 3 regions by subscription cancellations.
+- Find the total number of active and canceled subscriptions.
+- What is the total revenue by region?
 - Average revenue per customer
 - What is the average revenue by Subscription type?
 
